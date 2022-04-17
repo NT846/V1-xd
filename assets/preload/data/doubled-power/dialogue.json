@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.06,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello There! I see that you've come to us for your training against the BFs. We're glad to help you."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "spurkshaggyr",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We tried as hard as we could, and we were humiliated. Glad you could help us!"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "ronmatt",
+			"boxState": "normal",
+			"expression": "talk",
+            "text": "Hey man, how are ya?"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "spurkmattr",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rusty."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's begin by starting off with something we should all be familiar with."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We will start and you guys will improvise, try your best!"
+		}
+	]
+}

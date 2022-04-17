@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow, that was incredible!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spurkshaggyr",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thanks, definitely will be useful against that annoying BF."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nice job man, couldn't fight it up more without your help"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spurkmattr",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thanks man"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If y'all need backup out there, just give us a call and we'll be there when we can be."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "See you and good luck!"
+		}
+	]
+}
