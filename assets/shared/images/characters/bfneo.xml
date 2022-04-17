@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfneo.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF NOTE DOWN0000" x="5" y="5" width="371" height="376" pivotX="-13.9" pivotY="7.7" frameX="-2" frameY="-5" frameWidth="373" frameHeight="381"/>
+	<SubTexture name="BF NOTE LEFT0000" x="5" y="447" width="383" height="423" pivotX="-288.45" pivotY="211.2" frameX="0" frameY="0" frameWidth="384" frameHeight="423"/>
+	<SubTexture name="BF NOTE RIGHT0000" x="398" y="447" width="411" height="419" pivotX="-344.2" pivotY="210.35" frameX="-1" frameY="-3" frameWidth="412" frameHeight="422"/>
+	<SubTexture name="BF NOTE UP0000" x="819" y="5" width="361" height="450" pivotX="-34.9" pivotY="-32.9" frameX="-8" frameY="0" frameWidth="371" frameHeight="450"/>
+	<SubTexture name="BF idle dance0000" x="386" y="5" width="374" height="432" pivotX="-330.15" pivotY="221.5" frameX="-2" frameY="-20" frameWidth="376" frameHeight="432"/>
+</TextureAtlas>
+optimized by nt846

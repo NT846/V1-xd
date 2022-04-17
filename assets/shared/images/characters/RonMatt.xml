@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RonMatt.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="matt down note0000" x="5" y="5" width="298" height="400" frameX="0" frameY="-11" frameWidth="298" frameHeight="411"/>
+	<SubTexture name="matt idle0000" x="313" y="5" width="367" height="418" frameX="-6" frameY="-18" frameWidth="373" frameHeight="436"/>
+	<SubTexture name="matt left note0000" x="5" y="433" width="401" height="401" frameX="-11" frameY="0" frameWidth="413" frameHeight="401"/>
+	<SubTexture name="matt right note0000" x="416" y="433" width="378" height="418" frameX="-4" frameY="0" frameWidth="382" frameHeight="418"/>
+	<SubTexture name="matt up note0000" x="804" y="5" width="306" height="458" frameX="-2" frameY="0" frameWidth="311" frameHeight="458"/>
+</TextureAtlas>
+optimized by nt846
