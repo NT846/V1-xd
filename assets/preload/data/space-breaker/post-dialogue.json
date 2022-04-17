@@ -1,0 +1,228 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..Dang. You got us, again."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Haha, you guys are so funny.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk alt",
+			"text": "??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You guys still haven't figured out why you haven't won a single time.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spurkmatt",
+			"boxState": "normal",
+			"expression": "talk alt",
+			"text": "Why is that? How have we lost every single time we've tried??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You are on the left side. The right side always has the last play."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So that means, none of you guys ever win."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk alt",
+			"text": "!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madspurkshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This dumb game has been rigged from the start! No wonder why we've lost all of those times!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yup."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what if both of our sides played at the same time?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well you see.. It wouldn't be fun for the BFs. Since they like to repeat everything the opponent says, or alter it, there would be mass confusion."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what if, we were given a chance and move to the right side?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now that wouldn't be fun for the BFs since they would be on the side that loses-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Haha! Now you've just unleashed why this game is so unbalanced!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "eh-.. okay. I need to say something to you closer."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "okay?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(You see, I was manipulating them to being with me. I don't want to spend time trying to be with them, so I try to get them to rap battle and make them always win to be with me.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk alt",
+			"text": "woah"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk alt",
+			"text": "woah. That's totally not cool."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I know, but it works. So who would bother?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "See y'all~"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know what BFs? I think I misjudged you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Good game, everyone!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbside",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfneo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfplayer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I feel sick trying to hit all those arrows. uugghh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bffl",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfrs",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hope y'all had fun, Bye!"
+		}
+	]
+}

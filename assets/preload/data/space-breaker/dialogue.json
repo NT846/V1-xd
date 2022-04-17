@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..Welcome, time for you to get destroyed."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spurkshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..Yea, there ain't no way for you to win."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yea!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spurkmatt",
+			"boxState": "normal",
+			"expression": "talk alt",
+			"text": "Yea!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop boop bap..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfbside",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BAP!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfneo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BEEP!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfplayer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uh sorry... I don't think I was meant to be invited guys.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bffl",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BOP!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfrs",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BEEP!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spurkmatt",
+			"boxState": "normal",
+			"expression": "talk alt",
+			"text": "THEY BROUGHT 6!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't worry, I believe we can do this."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madspurkshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Get ready..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BOP!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfplayer",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Guys, why am I here? We still haven't established tha OH NO-"
+		}
+	]
+}
