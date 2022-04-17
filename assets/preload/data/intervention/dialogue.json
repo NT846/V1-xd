@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "madspurkshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We meet again."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madspurkshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We've had enough of your games and we're going to defeat you once and for all."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spurkmatt",
+			"boxState": "normal",
+			"expression": "talk alt",
+			"text": "Yea!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfsolo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop bop bep bop bap.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfdouble",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BOP BAP!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spurkmatt",
+			"boxState": "normal",
+			"expression": "talk alt",
+			"text": "uhh.. there's 2 of them.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfdouble",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap beep boop!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madspurkshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You got to be kidding me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madspurkshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't care. You guys are going to pay for what you've done."
+		}
+	]
+}

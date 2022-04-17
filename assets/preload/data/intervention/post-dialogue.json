@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.02,
+			"portrait": "madspurkshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.02,
+			"portrait": "madspurkshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fine. You win for now. Again."
+		},
+		{
+			"speed": 0.02,
+			"portrait": "spurkmatt",
+			"boxState": "normal",
+			"expression": "talk alt",
+			"text": "..."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BAP BOP BEEP!!"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "nothing",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "later that day..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey! How was it? Did you get them good?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yea, did you get them good!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madspurkshaggyr",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...They brought another boyfriend."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk alt",
+			"text": "What?! They're doing that to you now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madspurkshaggyr",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes. It seems like every month they get better and better at beating us."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk alt",
+			"text": "Not too long ago we had to deal with 4."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And we had our friends Tricky and Zardy to help us!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madspurkshaggyr",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It seems like there's no way to defeat them. Trust me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madspurkshaggyr",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know what. I got an idea."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ronshaggy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What if, all of us, try to go at those 4 bfs at once?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "madspurkshaggyr",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you know what.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "spurkshaggyr",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that might just work."
+		}
+	]
+}
