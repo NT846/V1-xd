@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-16,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "shaggy_idle"
+		},
+		{
+			"offsets": [
+				170,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "shaggy_left"
+		},
+		{
+			"offsets": [
+				3,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "shaggy_right"
+		},
+		{
+			"offsets": [
+				-7,
+				-119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "shaggy_down"
+		},
+		{
+			"offsets": [
+				-27,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "shaggy_up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				6
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "shaggy_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				252
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "shaggy_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				6
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "shaggy_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				70
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "shaggy_up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MadSpurkShag",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "MadSpurkShaggyMatt",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		254,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
